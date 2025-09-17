@@ -1,5 +1,3 @@
-Alright, you’ve got a friendly founder’s nod and a pre-product prototype. Time to turn that hand-wave into a pilot that actually proves value without scaring the workforce or breaking any laws. Here’s a clean, logically ordered plan from “verbal yes” to “MVP pilot live,” sized for \~30 Bare people out of \~200, with a proper control and an intentional “bad-faith” red-team to pressure-test the system.
-
 # 0) Define the MVP and the guardrails
 
 * **MVP scope**: 90-second phone/WhatsApp check-ins; weekly cadence; simple team heatmaps for supervisors; basic ISO 45003 evidence pack for execs/board. No raw voice to managers, only cohort trends; individual guidance stays private to the worker. &#x20;
