@@ -1,17 +1,21 @@
 # Echo × Bare — Pilot One‑Pager (Draft)
 
 **Purpose**  
-Stand up a small, ethical pilot to test whether Echo can 1)engage in meaningful conversations with frontline workers, 2) measurably surface psychosocial risk signals and trigger timely action in Bare’s teams, ans 3) provide near realtime engagement signals to leaders  without eroding trust.
+Stand up a small, ethical pilot to test whether Echo can: 
+  1) engage in meaningful conversations with frontline workers, 
+  2) measurably surface psychosocial risk signals 
+  3) provide near realtime engagement signals
+  4) produce an ISO-45003-ready evidence pack in 90 days
 
 ---
 
 ## Scope at a glance
-- **Participants:** ~25 staff (across roles with meaningful operational load),plus 20 control (BAU) and 1–3 supervisors (dashboard).
+- **Participants:** ~25 staff from a non-ground crew (CareLoop or phone support) as the seed cohort, plus 20 control (BAU + enagement survey via email) and 1–3 supervisors (dashboard).
 - **Arms:**  
-  - **Treatment (n≈20):** Weekly 90‑second check‑ins via phone or WhatsApp, supervisor heatmaps.  
-  - **Control (n≈20):** Business‑as‑usual. This group completes a survey at the begining and end of the pilot period.  
+  - **Treatment (n≈20):** Weekly 90‑second check‑ins via phone call with WhatsApp, SMS reminders
+  - **Control (n≈20):** Business‑as‑usual. This group completes an indusrty standard survey at the begining and end of the pilot period.  
   - **Robustness test subgroup (n≈5):** Volunteers who intentionally “stress‑test” the system (e.g., inconsistent answers, ignored calls) so we can measure false‑positives and clarity. Participation is consented and never used in performance decisions.
-- **Cadence:** 1× 90‑sec check‑in per worker per week; optional micro‑pulse (1–3 items) on alternating weeks.
+- **Cadence:** 1× 90‑sec check‑in per worker per week.
 - **Duration:** ~10–12 weeks total: 2 weeks setup + 1 week dry‑run + 8 weeks live + 1 week close‑out.
 
 ---
@@ -38,15 +42,14 @@ Stand up a small, ethical pilot to test whether Echo can 1)engage in meaningful 
 ---
 
 ## Success criteria (pilot KPIs)
-1. **Coverage:** ≥60% weekly active in Treatment, despite the robustness test subgroup.  
-2. **Signal quality:** Clear, actionable flags with controlled false‑positive rate.  
-3. **Actioning:** Time‑to‑intervention within SLA; % of actions closed weekly.  
-4. **Risk movement:** Directional improvement on relevant psychosocial hazards (e.g., workload, fatigue, exposure to traumatic events, civility/support).  
+1. **Coverage:** ≥60% weekly active and 80% of conversations "good faith" in Treatment.  
+2. **Evidence pack:** delivered and reviewed with Sam’s team.
+4. **Risk movement:** Directional signals on relevant psychosocial hazards (e.g., workload, fatigue, exposure to traumatic events, civility/support).  
 5. **Trust:** Positive worker sentiment about consent, privacy boundaries, and usefulness.
 
 ---
 
-## Timeline and key activities
+## Timeline
 - **Weeks 0–1 (Setup):**  
   - Sign pilot charter (objectives, KPIs, privacy profile, exception list).  
   - Provide roster/contacts; configure telephony/WhatsApp; finalize agent prompts; supervisor training; worker launch pack.
